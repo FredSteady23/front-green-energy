@@ -96,7 +96,7 @@ ul{
     align-items: center;
 }
 
-.social__link {
+.social__item {
     padding: 0 10px;
 }
 
@@ -129,6 +129,7 @@ ul{
 .service__img{
     object-fit: cover;
 }
+/* 3:30:00 */
 
 .info{
     margin-bottom: 150px;
@@ -163,6 +164,12 @@ ul{
     margin-bottom: 120px;
 }
 
+.info-tabs__item{
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 40px;
+}
+
 .info-tabs__item--active{
     border-bottom: 1px solid #303030;
 }
@@ -177,3 +184,4 @@ ul{
 
 /* 1:02:00 */
 /* 1:30:00 */
+
